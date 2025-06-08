@@ -36,5 +36,5 @@ This is a solution to the [Browser extensions manager UI challenge on Frontend M
 
 ## Other project for references
 
-- https://github.com/starboush-t/Browser-Extensions-Manager-UI/tree/main
-- https://github.com/osaaroh/67_browser_extension_manager_UI
+- https://github.com/AbdElmalik100/Mortgage-Repayment-Calculator
+
